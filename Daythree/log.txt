@@ -1,0 +1,22 @@
+//get
+When you want to get some data from the server.
+
+
+//post 
+When you want to send and mutate some data in server.
+
+
+
+//put
+
+//patch
+
+//delete
+
+
+1723735658757:GET /singup New Req Received
+1723736644674:GET /?eoke=dkfjs\eofjew=opf New Req Received
+1735480438033:GET / from IP undefined New Req Received 
+1735480466511:GET / from IP undefined New Req Received 
+1735485267370:GET / from IP undefined New Req Received 
+1735485381775:GET /about?upiid=sumi@1234 from IP undefined New Req Received 

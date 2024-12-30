@@ -1,0 +1,5 @@
+1. Install mutter.
+2. Changes in View.
+3. Middlerware to handle files.
+4. Apply that middleware.
+5. Update Controller to update urIs Of images.'

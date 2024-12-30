@@ -1,0 +1,20 @@
+1735555748627 :  GET : /users 
+ )1735555762715 :  GET : /api/users/2 
+ )1735555801882 :  GET : /api/users/2 
+1735555825121 :  GET : /users/ 
+1735555858121 :  DELETE : /api/users/1009 
+1735556910702 :  DELETE : /api/users/1009 
+1735557674509 :  POST : /api/users/1009 
+1735559899066 :  GET : /users 
+1735559899323 :  GET : /favicon.ico 
+1735559919659 :  POST : /api/users/1009 
+1735559930379 :  PUT : /api/users/1009 
+1735559938129 :  PATCH : /api/users/1009 
+1735559944010 :  DELETE : /api/users/1009 
+1735559950264 :  POST : /api/users/1009 
+1735559961978 :  POST : /users/ 
+1735560004499 :  POST : /users 
+1735560040783 :  GET : /api/users/101 
+1735560051134 :  POST : /users 
+1735560061447 :  POST : /users 
+1735560074684 :  GET : /users 
