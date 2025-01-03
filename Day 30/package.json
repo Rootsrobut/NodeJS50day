@@ -1,0 +1,27 @@
+{
+  "name": "day-29",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "ejs-layouts": "^0.0.1",
+    "express": "^4.21.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-parser": "^1.0.0",
+    "express-session": "^1.18.1",
+    "express-validator": "^7.2.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9",
+    "start": "^5.1.0"
+  }
+}
